@@ -1,0 +1,11 @@
+{
+  "name": "ruben-bot",
+  "version": "1.0.0",
+  "main": "Index.js",
+  "scripts": {
+    "start": "node Index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0"
+  }
+}
